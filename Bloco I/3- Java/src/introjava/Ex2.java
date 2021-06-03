@@ -3,7 +3,7 @@
  * e mostre-a expressa em anos, meses e dias.
  */
 
-package lista1;
+package introjava;
 
 import java.util.Scanner;
 

@@ -4,7 +4,7 @@
  * e mostre-a expressa apenas em dias.
  */
 
-package lista1;
+package introjava;
 
 import java.util.Scanner;
 
