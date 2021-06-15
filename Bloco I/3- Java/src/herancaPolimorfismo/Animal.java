@@ -3,9 +3,9 @@
  * utilize os seus conhecimentos e distribua as características de forma que tudo o que for comum a todos os animais 
  * fique na classe Animal: 
  */
-package orientacaoObjeto2;
+package herancaPolimorfismo;
 
-public class Animal {
+public abstract class Animal {
 
 		private String nome;
 		private int idade;
@@ -17,6 +17,12 @@ public class Animal {
 		}
 
 		public void emitirSom() {
+		}
+		
+		public void correr() {
+		}
+		
+		public void subirEmArvore() {
 		}
 		
 		// getters e setters
